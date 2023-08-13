@@ -1,4 +1,5 @@
-torch torchvision
+torch
+Pysprak
 transformers
 transformers[sentencepiece]
 datasets

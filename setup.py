@@ -24,7 +24,7 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/kabyabasu/textSumarization/issues",
     },
 
-    package_dir= ("":"src"),
+    package_dir= {"": "src"},
     packages=setuptools.find_packages(where="src"),
     
 )
